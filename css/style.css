@@ -117,10 +117,4 @@ p {
   font-weight: 700;
 }
 
-@media (max-width: 992px) {
-  .container {
-    width: 80%;
-  }
-}
-
 /*# sourceMappingURL=style.css.map */
